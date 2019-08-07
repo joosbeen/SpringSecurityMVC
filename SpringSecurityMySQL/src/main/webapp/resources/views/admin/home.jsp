@@ -1,0 +1,1 @@
+<h3 class="text-center ">Bienvenido  administrador: <strong><sec:authentication property="principal.username" /></strong></h3>

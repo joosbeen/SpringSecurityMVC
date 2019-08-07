@@ -1,0 +1,75 @@
+*.class
+.metadata
+**.classpath
+**.settings/
+**/.vscode/
+*.ucls
+
+# WSJEE GRADLE
+
+WSJEE/.gradle/*
+WSJEE/build
+
+# IDEA
+# ----
+.idea
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/buildSrc/*.iml
+/buildSrc/*.ipr
+/buildSrc/*.iws
+/buildSrc/out
+/out
+/subprojects/*/*.iml
+/subprojects/*/out
+
+# Eclipse
+# -------
+*.classpath
+*.project
+*.settings
+/bin
+/subprojects/*/bin
+atlassian-ide-plugin.xml
+
+# Logs
+# ----
+/*.log
+
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #￼
+Layouts
+Definición de layouts
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#OSX
+.DS_Store
+
+
+# MS-PLD
+/build/
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
+src/main/java/META-INF/**
+bin/**
+/bin
+target
+.settings/**
+src/main/java/META-INF/sun-jaxb.episode
+.settings/org.eclipse.wst.common.component
+.classpath
+.classpath.orig
+.project
+
+# Diagram package
+WebProject/src/main/java/diagram
