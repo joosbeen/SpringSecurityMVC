@@ -24,7 +24,7 @@
 		<!-- Commons Lang -->
 		<commons-lang.version>3.1</commons-lang.version>
 		<!-- JUnit -->
-		<junit.version>3.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
